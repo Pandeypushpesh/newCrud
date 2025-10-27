@@ -1,0 +1,19 @@
+{
+  "name": "newcrud",
+  "version": "1.0.0",
+  "description": "Practice CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NEWCRUD"
+  },
+  "author": "Pushpesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2"
+  }
+}
